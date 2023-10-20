@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "*.hpp": "cpp",
+        "stdexcept": "cpp",
+        "__bit_reference": "cpp",
+        "bitset": "cpp",
+        "vector": "cpp"
+    }
+}
