@@ -3,7 +3,7 @@
 ArrayFire is a general-purpose tensor library that simplifies the software
 development process for the parallel architectures found in CPUs, GPUs, and
 other hardware acceleration devices. The library serves users in every
-technical computing market.
+technical computing market..
 
 Several of ArrayFire's benefits include:
 
