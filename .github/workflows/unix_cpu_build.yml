@@ -194,3 +194,4 @@ jobs:
                   cd ${GITHUB_WORKSPACE}/build
                   if [ "$CC" == 'icx' ] || [ "$USE_MKL" == true ]; then source /opt/intel/oneapi/setvars.sh; fi
                   ctest -D Experimental --track ${CTEST_DASHBOARD} -T Test -T Submit -R cpu -j2
+
